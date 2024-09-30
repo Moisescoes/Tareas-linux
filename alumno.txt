@@ -1,0 +1,10 @@
+Nombre: 
+Edad: 
+Matricula 
+Carrera 
+---------------------------------
+Nombre: Moises
+Edad: 24
+Matricula 10056429
+Carrera 
+---------------------------------

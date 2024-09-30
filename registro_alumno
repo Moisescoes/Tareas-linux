@@ -1,0 +1,16 @@
+#! /bin/bash 
+read -p  "Introduce en nombre del alumno:" nombre
+
+read -p "Introduce la edad del alumno:" edad
+
+read -p "Introduce la matricula del alumno:" matricula 
+
+read -p "Introduce la carrera del alumno:" carrera
+
+echo "Nombre: $nombre" >> alumno.txt
+echo "Edad: $edad">> alumno.txt
+echo "Matricula $matricula" >> alumno.txt
+echo "Carrera $carrea" >> alumno.txt
+echo "---------------------------------" >> alumno.txt
+
+echo "Datos guardados en alumno.txt" 
